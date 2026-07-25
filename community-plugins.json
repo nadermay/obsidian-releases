@@ -42399,3 +42399,12 @@
     "repo": "faccuo/voz-notas"
   }
 ]
+
+{
+  "id": "finance-manager",
+  "name": "Finance Manager",
+  "author": "Nader",
+  "description": "Track daily income, expenses, and savings goals with smart insights and 50/30/20 budget rules.",
+  "repo": "YOUR_USERNAME/obsidian-finance-manager"
+}
+
